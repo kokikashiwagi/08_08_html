@@ -1,0 +1,29 @@
+.box1 {
+    width: 945px;
+    height: 370px;
+    /* background: red;
+    background-image: url("../img/01.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; */
+
+    background: url("../img/02.jpg") no-repeat center center;
+    background-size: cover;
+    margin: 100px auto;
+}
+
+.aa{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 165px;
+}
+
+.bb {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
